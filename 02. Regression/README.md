@@ -6,7 +6,7 @@ Esta carpeta contiene los apuntes y ejercicios del segundo curso de la especiali
 
 | Semana | Descripción|
 |----------|-------------|
-| [Week 1](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/02.%20Regression/01.%20Welcome) | Welcome & Simple Linear Regression |
+| [Week 1](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/02.%20Regression/01.%20Welcome%20%26%20Simple%20Linear%20Regression) | Welcome & Simple Linear Regression |
 
 
 ## 1. Welcome & Simple Linear Regression

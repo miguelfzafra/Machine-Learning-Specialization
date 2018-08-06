@@ -3,7 +3,6 @@
 Esta carpeta contiene los apuntes y ejercicios del segundo curso de la especialización: **Regression**.
  
 ## Índice
--------
 
 | Semana | Descripción|
 |----------|-------------|
@@ -25,7 +24,7 @@ Esta carpeta contiene los apuntes y ejercicios del segundo curso de la especiali
 
 | Archivo | Descripción|
 |----------|-------------|
-|[01_Intro.pdf]() | Introducción al curso |
-|[02_Simple_Regression.pdf]() | Teoría de la regresión lineal simple |
-|[01_Simple Regression PhillyCrime.ipynb]() | Puntos HLP e IO |
-|[02_Simple Regression Assignment.ipynb]() | Cálculo explícito de parámetros, RSS, etc... |
+|[01_Intro.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/01.%20Welcome%20%26%20Simple%20Linear%20Regression/01_Intro.pdf) | Introducción al curso |
+|[02_Simple_Regression.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/01.%20Welcome%20%26%20Simple%20Linear%20Regression/02_Simple_Regression.pdf) | Teoría de la regresión lineal simple |
+|[01_Simple Regression PhillyCrime.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/01.%20Welcome%20%26%20Simple%20Linear%20Regression/Notebooks/01_Simple%20Regression%20PhillyCrime.ipynb) | Puntos HLP e IO |
+|[02_Simple Regression Assignment.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/01.%20Welcome%20%26%20Simple%20Linear%20Regression/Notebooks/02_Simple%20Regression%20Assignment.ipynb) | Cálculo explícito de parámetros, RSS, etc... |

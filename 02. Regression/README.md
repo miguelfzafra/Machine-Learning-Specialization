@@ -7,7 +7,7 @@ Esta carpeta contiene los apuntes y ejercicios del segundo curso de la especiali
 | Semana | Descripción|
 |----------|-------------|
 | [Week 1](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/02.%20Regression/01.%20Welcome%20%26%20Simple%20Linear%20Regression) | Welcome & Simple Linear Regression |
-| [Week 2]() | Multiple Regression|
+| [Week 2](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/02.%20Regression/02.%20Multiple%20Regression) | Multiple Regression|
 
 ## 1. Welcome & Simple Linear Regression
 
@@ -44,7 +44,7 @@ Esta carpeta contiene los apuntes y ejercicios del segundo curso de la especiali
 
 | Archivo | Descripción|
 |----------|-------------|
-|[03_Multiple Regression.pdf]() | Teoría de la regresión lineal múltiple |
-|[01_Multiple Regression Assignment 1.ipynb]() | Introducción a la regresión lineal múltiple en python |
-|[02_Numpy Tutorial.ipynb]() | Tutorial de numpy|
-|[03_Multiple Regression Assignment 2.ipynb]() | Cálculo explícito del gradient descent |
+|[03_Multiple Regression.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/02.%20Multiple%20Regression/03_Multiple%20Regression.pdf) | Teoría de la regresión lineal múltiple |
+|[01_Multiple Regression Assignment 1.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/02.%20Multiple%20Regression/Notebooks/01_Multiple%20Regression%20Assignment%201.ipynb) | Interpretación de la regresión lineal múltiple |
+|[02_Numpy Tutorial.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/02.%20Multiple%20Regression/Notebooks/02_Numpy%20Tutorial.ipynb) | Tutorial de numpy|
+|[03_Multiple Regression Assignment 2.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/02.%20Multiple%20Regression/Notebooks/03_Multiple%20Regression%20Assignment%202.ipynb) | Cálculo explícito del gradient descent |

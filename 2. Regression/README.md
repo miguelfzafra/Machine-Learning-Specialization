@@ -48,3 +48,13 @@ Esta carpeta contiene los apuntes y ejercicios del segundo curso de la especiali
 |[01_Multiple Regression Assignment 1.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/02.%20Multiple%20Regression/Notebooks/01_Multiple%20Regression%20Assignment%201.ipynb) | Interpretación de la regresión lineal múltiple |
 |[02_Numpy Tutorial.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/02.%20Multiple%20Regression/Notebooks/02_Numpy%20Tutorial.ipynb) | Tutorial de numpy|
 |[03_Multiple Regression Assignment 2.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/02.%20Regression/02.%20Multiple%20Regression/Notebooks/03_Multiple%20Regression%20Assignment%202.ipynb) | Cálculo explícito del gradient descent |
+
+
+## 3. Assessing Performance
+
+**Contenido**
+
+* Definición de la función de coste
+* Training error y generalization error (test error).Error frente a la complejidad del modelo
+* Fuentes del error: ruido, sesgo y varianza. Trade-off entre sesgo y varianza
+* Hyperparameter tuning: enfoque train/validation/test set

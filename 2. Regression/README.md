@@ -85,7 +85,7 @@ Esta carpeta contiene los apuntes y ejercicios del segundo curso de la especiali
 * Motivación de la regresión Ridge. Overfitting.
 * Adición del término de regularización a la función de coste. Análisis de posibles casos. Bias-variance tradeoff en regularización. Coefficient path.
 * Fit del modelo de regresión Ridge. Algoritmos: closed-form solution, gradient descent.
-* Elección de $\lambda$. K-fold Cross Validation y caso particular LOOCV.
+* Elección de lambda. K-fold Cross Validation y caso particular LOOCV.
 * Problemas con el intercepto al regularizar. Soluciones: no penalizar su coeficiente, normalizar.
 
 
@@ -112,7 +112,7 @@ Esta carpeta contiene los apuntes y ejercicios del segundo curso de la especiali
 * Término de regularización en la función de coste. Explicación de la no idoneidad de restringir los coeficientes Ridge. Coefficient path.
 * Intuición geométrica de Lasso y Ridge.
 * Fit de la regresión Lasso. Algoritmos: coordinate descent (tanto para regresión no regularizada como regularizada). Normalización. Soft thresholding. Convergencia.
-* Elección de $\lambda$.
+* Elección de lambda.
 * Ventajas e inconvenientes de Lasso.
 
 
@@ -135,7 +135,7 @@ Esta carpeta contiene los apuntes y ejercicios del segundo curso de la especiali
 * Introducción a la regresión no paramétrica. Fit global vs local.
 * Regresión 1-NN y K-NN. Motivación. Diagramas de Voronoi. Métricas de distancia. Algoritmos. Influencia de la cantidad de datos y del ruido.
 * Weighted K-NN. Kernel regression. Motivación.
-* Elección de los límites $\lambda$.
+* Elección de los límites lambda.
 * Diferentes fits aparte de la función constante: lineal, cuadrático.
 * Ventajas e inconvenientes de los métodos no paramétricos.
 * Fit en el límite del número de observaciones 

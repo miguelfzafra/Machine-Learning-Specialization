@@ -39,6 +39,16 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 * Algoritmo para el clasificador óptimo (Gradient Ascent). Derivación formal.
 * Aplicación a la regresión logística: log-likelihood, cálculo de la derivada e interpretación.
 * Elección del stepsize: análisis de sensibilidad. Rule of thumb.
+* Overfitting en clasificación. Efectos en el fit, en la frontera de decisión y en las probabilidades estimadas. Caso de observaciones linealmente separables.
+* Regularización L1 y L2. Efectos, coefficient path, casos extremos. Cálculo del gradiente con regularización. 
 
 
+**Materiales**
 
+|Archivo|Tipo|Descripción|
+|-------|----|--------|
+|[2_1_Logistic Regression Learning Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers/2_1_Logistic%20Regression%20Learning%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[2_2_Logistic Regression Overfitting Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers/2_2_Logistic%20Regression%20Overfitting%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[2_3_Logistic Regression Overfitting Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers/2_3_Logistic%20Regression%20Overfitting%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[01_Linear Classifier Learning Assignment.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers/Notebooks/01_Linear%20Classifier%20Learning%20Assignment.ipynb)|Práctica|Implementación gradient ascent|
+|[02_Linear Classifier Regularization Assignment.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers/Notebooks/02_Linear%20Classifier%20Regularization%20Assignment.ipynb)|Práctica|Regresión logística regularizada|

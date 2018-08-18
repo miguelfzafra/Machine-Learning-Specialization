@@ -7,6 +7,7 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 | Semana | Descripción|
 |----------|-------------|
 | [Semana 1](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/1.%20Welcome%20%26%20Linear%20Classifiers) | Welcome & Linear Classifiers |
+| [Semana 2](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers) | Learning Linear Classifiers |
 
 ## 1. Welcome & Linear Classifiers
 

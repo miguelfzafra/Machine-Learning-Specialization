@@ -8,6 +8,7 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 |----------|-------------|
 | [Semana 1](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/1.%20Welcome%20%26%20Linear%20Classifiers) | Welcome & Linear Classifiers |
 | [Semana 2](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers) | Learning Linear Classifiers |
+| [Semana 3](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/3.%20Decision%20Trees) | Decision Trees |
 
 ## 1. Welcome & Linear Classifiers
 
@@ -53,3 +54,25 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 |[2_3_Logistic Regression Overfitting Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers/2_3_Logistic%20Regression%20Overfitting%20Notes.pdf)|Teoría|Apuntes de teoría.|
 |[01_Linear Classifier Learning Assignment.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers/Notebooks/01_Linear%20Classifier%20Learning%20Assignment.ipynb)|Práctica|Implementación gradient ascent|
 |[02_Linear Classifier Regularization Assignment.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers/Notebooks/02_Linear%20Classifier%20Regularization%20Assignment.ipynb)|Práctica|Regresión logística regularizada|
+
+
+
+## 3. Decision Trees
+
+**Contenido**
+
+* Intuición de los árboles de decisión. Representación y obtención de la predicción al recorrerlo.
+* Problema de elegir el mejor árbol. Algoritmo greedy: desarrollo, motivación, funcionamiento. Stop conditions. Decision stumps. Elección de las mejores features para hacer el split.
+* Predicciones con árboles de decisión. Algoritmo de predicción.
+* Clasificación multiclase. Predicción de probabilidades.
+* Manejo de características numéricas (no categóricas). Threshold splits. Búsqueda del split óptimo.
+* Comparación árbol de decisión vs regresión logística.
+
+**Materiales**
+
+|Archivo|Tipo|Descripción|
+|-------|----|--------|
+|[3_1_Decision Trees Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/3.%20Decision%20Trees/3_1_Decision%20Trees%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[3_2_Decision Trees Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/3.%20Decision%20Trees/3_2_Decision%20Trees%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[01_Decision Tree Assignment 1.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/3.%20Decision%20Trees/Notebooks/01_Decision%20Tree%20Assignment%201.ipynb)|Práctica|Árboles de decisión: enfoque librería|
+|[02_Decision Tree Assignment 2.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/3.%20Decision%20Trees/Notebooks/02_Decision%20Tree%20Assignment%202.ipynb)|Práctica|Implementación de un árbol de decisión.|

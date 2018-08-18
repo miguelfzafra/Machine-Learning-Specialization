@@ -29,3 +29,16 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 |[1_2_Linear Classifiers. Logistic Regression Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/1.%20Welcome%20%26%20Linear%20Classifiers/1_2_Linear%20Classifiers.%20Logistic%20Regression%20Slides.pdf)|Teoría|Diapositivas de teoría.|
 |[1_3_Linear Classifiers. Logistic Regression Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/1.%20Welcome%20%26%20Linear%20Classifiers/1_3_Linear%20Classifiers.%20Logistic%20Regression%20Notes.pdf)|Teoría|Apuntes de teoría.|
 |[01_Linear Classifier Assignment.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/1.%20Welcome%20%26%20Linear%20Classifiers/Notebooks)|Práctica|Análisis de sentimiento, interpretación, etc.|
+
+
+## 2. Learning Linear Classifiers
+
+**Contenido**
+
+* Estimación por maximum likelihood. Intuición, motivación. Cálculo de likelihood de un conjunto de datos.
+* Algoritmo para el clasificador óptimo (Gradient Ascent). Derivación formal.
+* Aplicación a la regresión logística: log-likelihood, cálculo de la derivada e interpretación.
+* Elección del stepsize: análisis de sensibilidad. Rule of thumb.
+
+
+

@@ -76,3 +76,24 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 |[3_2_Decision Trees Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/3.%20Decision%20Trees/3_2_Decision%20Trees%20Notes.pdf)|Teoría|Apuntes de teoría.|
 |[01_Decision Tree Assignment 1.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/3.%20Decision%20Trees/Notebooks/01_Decision%20Tree%20Assignment%201.ipynb)|Práctica|Árboles de decisión: enfoque librería|
 |[02_Decision Tree Assignment 2.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/3.%20Decision%20Trees/Notebooks/02_Decision%20Tree%20Assignment%202.ipynb)|Práctica|Implementación de un árbol de decisión.|
+
+
+## 4. Decision Trees Overfitting
+
+**Contenido**
+
+* Overfitting en el caso de los árboles de decisión. Efecto de la profundidad del árbol. Causa del overfitting.
+* Principio de la navaja de Occam. Árboles simples frente a complejos.
+* Elección de árboles simples: Early Stopping frente a Pruning. 
+* Early Stopping: condiciones, retos de las mismas e incorporación al algoritmo greedy. 
+* Pruning: motivación, trampas. Medida de la simpleza de los árboles. Algoritmo de pruning (lógica y modificación de la función objetivo).
+
+
+
+
+
+
+
+
+
+

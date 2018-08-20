@@ -9,6 +9,8 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 | [Semana 1](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/1.%20Welcome%20%26%20Linear%20Classifiers) | Welcome & Linear Classifiers |
 | [Semana 2](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers) | Learning Linear Classifiers |
 | [Semana 3](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/3.%20Decision%20Trees) | Decision Trees |
+| [Semana 4](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/4.%20Decision%20Trees%20Overfitting%20%26%20Missing%20Data) | Decision Trees Overfitting & Missing Data |
+
 
 ## 1. Welcome & Linear Classifiers
 
@@ -78,7 +80,7 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 |[02_Decision Tree Assignment 2.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/3.%20Decision%20Trees/Notebooks/02_Decision%20Tree%20Assignment%202.ipynb)|Práctica|Implementación de un árbol de decisión.|
 
 
-## 4. Decision Trees Overfitting
+## 4. Decision Trees Overfitting & Missing Data
 
 **Contenido**
 
@@ -87,7 +89,18 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 * Elección de árboles simples: Early Stopping frente a Pruning. 
 * Early Stopping: condiciones, retos de las mismas e incorporación al algoritmo greedy. 
 * Pruning: motivación, trampas. Medida de la simpleza de los árboles. Algoritmo de pruning (lógica y modificación de la función objetivo).
+* Trabajar con valores missing: diferentes estrategias. Pros y contras. Visión general.
+* Aplicación de las estrategias a los árboles de decisión.
 
+
+**Materiales**
+
+|Archivo|Tipo|Descripción|
+|-------|----|--------|
+|[4_1_Decision Trees Overfitting Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/4.%20Decision%20Trees%20Overfitting%20%26%20Missing%20Data/4_1_Decision%20Trees%20Overfitting%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[4_2_Decision Trees Missing Data Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/4.%20Decision%20Trees%20Overfitting%20%26%20Missing%20Data/4_2_Decision%20Trees%20Missing%20Data%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[4_3_Decision Trees Overfitting & Missing Data Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/4.%20Decision%20Trees%20Overfitting%20%26%20Missing%20Data/4_3_Decision%20Trees%20Overfitting%20%26%20Missing%20Data%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[01_Decision Tree Practical Assignment.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/4.%20Decision%20Trees%20Overfitting%20%26%20Missing%20Data/Notebooks/01_Decision%20Tree%20Practical%20Assignment.ipynb)|Práctica|Implementación de stopping conditions y análisis.|
 
 
 

@@ -10,6 +10,7 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 | [Semana 2](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/2.%20Learning%20Linear%20Classifiers) | Learning Linear Classifiers |
 | [Semana 3](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/3.%20Decision%20Trees) | Decision Trees |
 | [Semana 4](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/4.%20Decision%20Trees%20Overfitting%20%26%20Missing%20Data) | Decision Trees Overfitting & Missing Data |
+| [Semana 5](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/5.%20Boosting) | Boosting|
 
 
 ## 1. Welcome & Linear Classifiers
@@ -104,9 +105,25 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 
 
 
+## 5. Boosting
+
+**Contenido**
+
+* Introducción al boosting. Antecedentes y motivación.
+* Ensemble classifiers. Funcionamiento general. Caso particular de ensemble classifier con decision stumps.
+* Boosting. Weighted data. Explicación del algoritmo.
+* AdaBoost. Cálculo del peso de cada modelo (mediante Weighted Classification Error) y de los pesos de los puntos (mediante la fórmula para actualizar los pesos y el normalizado). Ejemplo de aplicación.
+* Convergencia de los algoritmos de boosting.
+* Overfitting en el boosting. Elección del número de iteraciones (hiperparámetro).
+* Impacto del boosting y variantes.
 
 
+**Materiales**
 
-
-
-
+|Archivo|Tipo|Descripción|
+|-------|----|--------|
+|[5_1_Boosting Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/5.%20Boosting/5_1_Boosting%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[5_2_Boosted Trees Advanced Material.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/5.%20Boosting/5_2_Boosted%20Trees%20Advanced%20Material.pdf)|Teoría|Diapositivas de teoría avanzada.|
+|[5_3_Boosting Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/5.%20Boosting/5_3_Boosting%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[01_Boosting Assignment 1.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/5.%20Boosting/Notebooks/01_Boosting%20Assignment%201.ipynb)|Práctica|Boosting: enfoque librería|
+|[02_Boosting Assignment 2.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/5.%20Boosting/Notebooks/02_Boosting%20Assignment%202.ipynb)|Práctica|Implementación de boosting.|

@@ -12,6 +12,7 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 | [Semana 4](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/4.%20Decision%20Trees%20Overfitting%20%26%20Missing%20Data) | Decision Trees Overfitting & Missing Data |
 | [Semana 5](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/5.%20Boosting) | Boosting|
 | [Semana 6](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/6.%20Precision%20-%20Recall) | Precision - Recall |
+| [Semana 7](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/7.%20Scaling%20%26%20Online%20Learning) | Scaling to Huge Datasets & Online Learning|
 
 
 ## 1. Welcome & Linear Classifiers
@@ -152,3 +153,26 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 |[6_2_Precision - Recall Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/6.%20Precision%20-%20Recall/6_2_Precision%20-%20Recall%20Notes.pdf)|Teoría|Apuntes de teoría.|
 |[01_Precision Recall Assignment.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/6.%20Precision%20-%20Recall/Notebooks/01_Precision%20Recall%20Assignment.ipynb)|Práctica|Práctica Precision Recall|
 
+
+## 7. Scaling to Huge Datasets & Online Learning
+
+**Contenido**
+
+* Historia del Machine Learning. Situación actual. Volumen de datos.
+* Algoritmo de gradient ascent para datos enormes. Escalabilidad.
+* Introducción al Stochastic Gradient Ascent. Motivación e intuición. Comparación en términos computacionales. Funcionamiento.
+* Convergence paths.
+* Trucos prácticos: shuffle data, elección del step-size, elección de los pesos estimados.
+* Stochastic gradient con mini-batches.
+* Medida de la convergencia del SG.
+* Regularización en SG.
+* Online Learning: introducción, motivación, retos, pros y contras. Utilización del Stochastic Gradient Ascent para online learning. Paralelismo.
+
+
+**Materiales**
+
+|Archivo|Tipo|Descripción|
+|-------|----|--------|
+|[7_1_Scaling & Online Learning Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/7.%20Scaling%20%26%20Online%20Learning/7_1_Scaling%20%26%20Online%20Learning%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[7_2_Scaling & Online Learning Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/7.%20Scaling%20%26%20Online%20Learning/7_2_Scaling%20%26%20Online%20Learning%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[01_Online Learning Assignment.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/7.%20Scaling%20%26%20Online%20Learning/Notebooks/01_Online%20Learning%20Assignment.ipynb)|Práctica|Implementación Stochastic Gradient Ascent|

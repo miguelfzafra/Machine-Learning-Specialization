@@ -11,6 +11,7 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 | [Semana 3](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/3.%20Decision%20Trees) | Decision Trees |
 | [Semana 4](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/4.%20Decision%20Trees%20Overfitting%20%26%20Missing%20Data) | Decision Trees Overfitting & Missing Data |
 | [Semana 5](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/5.%20Boosting) | Boosting|
+| [Semana 6](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/3.%20Classification/6.%20Precision%20-%20Recall) | Precision - Recall |
 
 
 ## 1. Welcome & Linear Classifiers
@@ -127,3 +128,27 @@ Esta carpeta contiene los apuntes y ejercicios del tercer curso de la especializ
 |[5_3_Boosting Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/5.%20Boosting/5_3_Boosting%20Notes.pdf)|Teoría|Apuntes de teoría.|
 |[01_Boosting Assignment 1.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/5.%20Boosting/Notebooks/01_Boosting%20Assignment%201.ipynb)|Práctica|Boosting: enfoque librería|
 |[02_Boosting Assignment 2.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/5.%20Boosting/Notebooks/02_Boosting%20Assignment%202.ipynb)|Práctica|Implementación de boosting.|
+
+
+
+## 6. Precision - Recall
+
+**Contenido**
+
+* Motivación de otras medidas además de la accuracy. Ejemplo práctico.
+* Noción de "buen clasificador".
+* Precision y Recall: explicación, cálculo e intuición.
+* Tipos de errores. Matriz de confusión. TP, TN, FP, FN.
+* Modelos en función de precision-recall. Trade-off. Utilización de probabilidades para fijar un límite.
+* Curva precision-recall.
+* Comparación de algoritmos: otras medidas.
+
+
+**Materiales**
+
+|Archivo|Tipo|Descripción|
+|-------|----|--------|
+|[6_1_Precision - Recall Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/6.%20Precision%20-%20Recall/6_1_Precision%20-%20Recall%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[6_2_Precision - Recall Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/6.%20Precision%20-%20Recall/6_2_Precision%20-%20Recall%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[01_Precision Recall Assignment.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/3.%20Classification/6.%20Precision%20-%20Recall/Notebooks/01_Precision%20Recall%20Assignment.ipynb)|Práctica|Práctica Precision Recall|
+

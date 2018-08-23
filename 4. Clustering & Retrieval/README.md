@@ -43,7 +43,7 @@ Esta carpeta contiene los apuntes y ejercicios del cuarto curso de la especializ
 
 |Archivo|Tipo|Descripción|
 |-------|----|--------|
-|[1_1_Retrieval Intro Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search/1_1_Retrieval%20Intro%20Slides.pdf)|Teoría|Diapositivas de teoría.|
-|[1_2_Retrieval Intro Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search/1_2_Retrieval%20Intro%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[2_1_Retrieval Intro Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search/1_1_Retrieval%20Intro%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[2_2_Retrieval Intro Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search/1_2_Retrieval%20Intro%20Notes.pdf)|Teoría|Apuntes de teoría.|
 |[01_Nearest Neighbors Features and Metrics.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search/Notebooks/01_Nearest%20Neighbors%20Features%20and%20Metrics.ipynb)|Práctica|Ánálisis diferentes métricas y features|
 |[02_NN LSH Implementation.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search/Notebooks/02_NN%20LSH%20Implementation.ipynb)|Práctica|Implementación LSH.|

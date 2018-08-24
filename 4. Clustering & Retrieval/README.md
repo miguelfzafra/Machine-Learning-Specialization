@@ -9,6 +9,8 @@ Esta carpeta contiene los apuntes y ejercicios del cuarto curso de la especializ
 | [Semana 1](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/1.%20Welcome) | Welcome |
 | [Semana 2](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search) | Nearest Neighbor Search |
 | [Semana 3](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means) | 3. Clustering with K-Means |
+| [Semana 4](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models) | 4. Mixture Models |
+
 
 
 ## 1. Welcome
@@ -69,3 +71,25 @@ Esta carpeta contiene los apuntes y ejercicios del cuarto curso de la especializ
 |[3_1_KMeans Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means/3_1_KMeans%20Slides.pdf)|Teoría|Diapositivas de teoría.|
 |[3_2_KMeans Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means/3_2_KMeans%20Notes.pdf)|Teoría|Apuntes de teoría.|
 |[01_KMeans with text data.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means/Notebooks/01_KMeans%20with%20text%20data.ipynb)|Práctica|Implementación Kmeans.|
+
+
+
+## 4. Mixture Models
+
+**Contenido**
+
+* Introducción al clustering con approach probabilístico. Motivación. Limitaciones de K-Means.
+* Distribuciones gaussianas. Ejemplo práctico con distribuciones. Media, varianza, covarianzas... (parámetros).
+* Mixture of gaussians: modelo de clustering como un mixture de distribuciones gaussianas. Términos Prior y Likelihood. Aplicación a text clustering.
+* Estimación de soft assignments con EM. Explicación. Motivación. Aplicación del teorema de Bayes.
+* Convergencia de EM. Inicialización. Overfitting. Problemas en muchas dimensiones.
+* Relación con K-Means.
+
+**Materiales**
+
+|Archivo|Tipo|Descripción|
+|-------|----|--------|
+|[4_1_Mixture Models EM Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models/4_1_Mixture%20Models%20EM%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[4_2_Mixture Models EM Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models/4_2_Mixture%20Models%20EM%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[1_EM for GMM.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models/Notebooks/1_EM%20for%20GMM.ipynb)|Práctica|Implementación GMM con EM|
+|[2_EM with text data.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models/Notebooks/2_EM%20with%20text%20data.ipynb)|Práctica|Ejemplo con text data. Covarianza diagonal e inicialización con K-Means.|

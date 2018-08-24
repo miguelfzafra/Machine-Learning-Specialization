@@ -6,8 +6,9 @@ Esta carpeta contiene los apuntes y ejercicios del cuarto curso de la especializ
 
 | Semana | Descripción|
 |----------|-------------|
-| [Semana 1](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/1.%20Welcome) | Welcome|
-| [Semana 2](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search) | Nearest Neighbor Search|
+| [Semana 1](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/1.%20Welcome) | Welcome |
+| [Semana 2](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search) | Nearest Neighbor Search |
+| [Semana 3](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means) | 3. Clustering with K-Means |
 
 
 ## 1. Welcome
@@ -47,3 +48,24 @@ Esta carpeta contiene los apuntes y ejercicios del cuarto curso de la especializ
 |[2_2_Retrieval Intro Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search/1_2_Retrieval%20Intro%20Notes.pdf)|Teoría|Apuntes de teoría.|
 |[01_Nearest Neighbors Features and Metrics.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search/Notebooks/01_Nearest%20Neighbors%20Features%20and%20Metrics.ipynb)|Práctica|Ánálisis diferentes métricas y features|
 |[02_NN LSH Implementation.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search/Notebooks/02_NN%20LSH%20Implementation.ipynb)|Práctica|Implementación LSH.|
+
+
+## 3. Clustering with K-Means
+
+
+**Contenido**
+
+* Introducción al clustering. Motivación. Comparación con aprendizaje supervisado.
+* Definición de un cluster. Posibles retos.
+* K-Means: asunciones y funcionamiento. Algoritmo. Utilización de coordinate descent para llevarlo a cabo. Convergencia. Smart inicialization (K-Means++). Medición de la calidad del clustering y elección del número de clusters.
+* MapReduce: funcionamiento, motivación. Ejemplo con word count. Aplicación a K-Means y consideraciones prácticas. Mejora de la performance: combiners.
+* Otros ejemplos de utilidad del clustering. 
+
+
+**Materiales**
+
+|Archivo|Tipo|Descripción|
+|-------|----|--------|
+|[3_1_KMeans Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means/3_1_KMeans%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[3_2_KMeans Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means/3_2_KMeans%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[01_KMeans with text data.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means/Notebooks/01_KMeans%20with%20text%20data.ipynb)|Práctica|Implementación Kmeans.|

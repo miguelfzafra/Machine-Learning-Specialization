@@ -11,6 +11,7 @@ Esta carpeta contiene los apuntes y ejercicios del cuarto curso de la especializ
 | [Semana 3](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means) | Clustering with K-Means |
 | [Semana 4](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models) | Mixture Models |
 | [Semana 5](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/5.%20Mixed%20Membership%20Modeling%20via%20Latent%20Dirichlet%20Allocation) | Mixed Membership Modeling via Latent Dirichlet Allocation |
+| [Semana 6](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/6.%20Hierarchical%20Clustering%20%26%20Closing) | Hierarchical Clustering & Closing |
 
 
 
@@ -113,3 +114,22 @@ Esta carpeta contiene los apuntes y ejercicios del cuarto curso de la especializ
 |[5_1_LDA Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/5.%20Mixed%20Membership%20Modeling%20via%20Latent%20Dirichlet%20Allocation/5_1_LDA%20Slides.pdf)|Teoría|Diapositivas de teoría.|
 |[5_2_LDA Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/5.%20Mixed%20Membership%20Modeling%20via%20Latent%20Dirichlet%20Allocation/5_2_LDA%20Notes.pdf)|Teoría|Apuntes de teoría.|
 |[01_LDA.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/5.%20Mixed%20Membership%20Modeling%20via%20Latent%20Dirichlet%20Allocation/Notebooks/01_LDA.ipynb)|Práctica|Análisis LDA.|
+
+
+## 6. Hierarchical Clustering & Closing 
+
+
+**Contenido**
+
+* Motivación del clustering jerárquico.
+* Divisive clustering: intuición, K-Means recursivo, elecciones a realizar.
+* Agglomerative clustering: distancia, linkage function, dendrogramas y cortes. Consideraciones computacionales y statistical issues.
+* Hidden Markov Models: introducción, motivación, ejemplos, inferencia.
+
+**Materiales**
+
+|Archivo|Tipo|Descripción|
+|-------|----|--------|
+|[6_1_Hierarchical Clustering & Closing Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/6.%20Hierarchical%20Clustering%20%26%20Closing/6_1_Hierarchical%20Clustering%20%26%20Closing%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[6_2_Hierarchical Clustering & Closing Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/6.%20Hierarchical%20Clustering%20%26%20Closing/6_2_Hierarchical%20Clustering%20%26%20Closing%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[01_Hierarchical Clustering.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/6.%20Hierarchical%20Clustering%20%26%20Closing/Notebooks)|Práctica|Hierarchical Clustering.|

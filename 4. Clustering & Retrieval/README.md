@@ -8,8 +8,9 @@ Esta carpeta contiene los apuntes y ejercicios del cuarto curso de la especializ
 |----------|-------------|
 | [Semana 1](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/1.%20Welcome) | Welcome |
 | [Semana 2](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/2.%20Nearest%20Neighbors%20Search) | Nearest Neighbor Search |
-| [Semana 3](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means) | 3. Clustering with K-Means |
-| [Semana 4](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models) | 4. Mixture Models |
+| [Semana 3](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/3.%20Clustering%20with%20K-Means) | Clustering with K-Means |
+| [Semana 4](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models) | Mixture Models |
+| [Semana 5](https://github.com/miguelfzafra/Machine-Learning-Specialization/tree/master/4.%20Clustering%20%26%20Retrieval/5.%20Mixed%20Membership%20Modeling%20via%20Latent%20Dirichlet%20Allocation) | Mixed Membership Modeling via Latent Dirichlet Allocation |
 
 
 
@@ -93,3 +94,22 @@ Esta carpeta contiene los apuntes y ejercicios del cuarto curso de la especializ
 |[4_2_Mixture Models EM Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models/4_2_Mixture%20Models%20EM%20Notes.pdf)|Teoría|Apuntes de teoría.|
 |[1_EM for GMM.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models/Notebooks/1_EM%20for%20GMM.ipynb)|Práctica|Implementación GMM con EM|
 |[2_EM with text data.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/4.%20Mixture%20Models/Notebooks/2_EM%20with%20text%20data.ipynb)|Práctica|Ejemplo con text data. Covarianza diagonal e inicialización con K-Means.|
+
+
+## 5. Mixed Membership Modeling via Latent Dirichlet Allocation
+
+**Contenido**
+
+* Motivación de los Mixed Membership Models en clustering de documentos.
+* Representación mediante Bag of Words. Distribución de palabras por topic.
+* Latent Dirichlet Allocation: aplicación a document clustering. Inferencia.
+* Algoritmo de Gibbs Sampling para inferencia en LDA. Explicación. Collapsed Gibbs Sampling en LDA. Ejemplo práctico.
+* Utilización de las collapsed samples.
+
+**Materiales**
+
+|Archivo|Tipo|Descripción|
+|-------|----|--------|
+|[5_1_LDA Slides.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/5.%20Mixed%20Membership%20Modeling%20via%20Latent%20Dirichlet%20Allocation/5_1_LDA%20Slides.pdf)|Teoría|Diapositivas de teoría.|
+|[5_2_LDA Notes.pdf](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/5.%20Mixed%20Membership%20Modeling%20via%20Latent%20Dirichlet%20Allocation/5_2_LDA%20Notes.pdf)|Teoría|Apuntes de teoría.|
+|[01_LDA.ipynb](https://github.com/miguelfzafra/Machine-Learning-Specialization/blob/master/4.%20Clustering%20%26%20Retrieval/5.%20Mixed%20Membership%20Modeling%20via%20Latent%20Dirichlet%20Allocation/Notebooks/01_LDA.ipynb)|Práctica|Análisis LDA.|
